@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=2RUK%20Profile&fontSize=90)
 
 # 📢 MAIN SKILL
-- **⚡ FRONT :** VUE.JS 
+- **⚡ FRONT :** VUE.JS ( 2.x Typescript )
 - **🌊 BACK :** NEST.JS
 
 # 📢 OTHER SKILLS 
-- **📘 DB :** MONGO , ORACLE
-- **📗OTHER :** JSP ,HTML ,JAVASCRIPT(ES5,6) ,JAVA, NODE, ASP ... 
+- **📘 DB :** MONGO 
 
 
 # 📣 기타사항
