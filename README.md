@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=2RUK%20Profile&fontSize=90)
 
 # 📢 MAIN SKILL
-- NestJs, MySQL, AWS
+- SpringBoot, Kotlin, RabbitMQ
+- NestJs,Typescript, Node
+- AWS, MySQL, Mongo
 
 # 📣 기타사항
 > ( •̀ ω •́ )✧
